@@ -32,7 +32,7 @@ document.querySelector(".styled").addEventListener("blur",function(){
 
 // Part 3 Question 5
 document.querySelector(".styled2").addEventListener("click",function(){
-  document.querySelector("#maincontent").style.backgroundImage="url('../images/beach.jpg')";}) 
+  document.querySelector("#maincontent").style.backgroundImage="url('images/flowers.jpg')";}) 
 
 
 // Part 3 Question 6
